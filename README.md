@@ -1,4 +1,4 @@
-Запуск
+Запуск.
 Собрать Docker-образ:
 docker build -t java-app.
 
